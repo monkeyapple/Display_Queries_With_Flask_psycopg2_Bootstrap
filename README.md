@@ -5,3 +5,8 @@
 ```
 python3 run.py
 ```
+
+
+## Technical details about this project
+I wrote two articles for this project:
+* https://medium.com/pythonistas/display-recent-queries-on-web-page-from-postgresql-database-with-flask-psycopg2-bootstrap-467ced8583c5
